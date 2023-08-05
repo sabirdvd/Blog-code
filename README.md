@@ -1,5 +1,7 @@
 # Blog code
-Code related to my blog 
+``` Writing is a nature's way of letting you know how sloppy your thinking is. Dick Guindon```
+
+Code related to my [blog](https://ahmed.jp)
 
 | Post | conference | github | 
 |------|------|------|
